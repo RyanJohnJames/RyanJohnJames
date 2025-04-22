@@ -6,7 +6,7 @@
   Hello!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-  I am currently a year 1 Cybersecurity student at NP
+  I am currently a year 2 Cybersecurity student at NP
 </h1> 
 
 <div id="badges" align="center">
