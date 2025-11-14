@@ -33,12 +33,7 @@
 
 ---
 
-### :fire: My not-so-proud stats:
-<!-- <div align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RyanJohnJames&theme=dark&background=000000)](https://git.io/streak-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanJohnJames&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div> -->
-
+<h1 align="center">My not so proud stats</h1>
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=RyanJohnJames&theme=dark&background=000000" />
