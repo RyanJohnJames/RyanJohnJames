@@ -23,7 +23,7 @@
 </br></br></br>
 
 
-<h1 align = "center">Skills tools and Language</h1></br>
+<h1 align = "center">Skills, tools and Languages</h1></br>
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -34,7 +34,21 @@
 ---
 
 ### :fire: My not-so-proud stats:
+<!-- <div align="center">
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RyanJohnJames&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanJohnJames&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div> -->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RyanJohnJames&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanJohnJames&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=RyanJohnJames&theme=dark&background=000000" />
+  </a>
+</div>
+
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanJohnJames&layout=compact&theme=vision-friendly-dark" />
+  </a>
+</div>
+
 
