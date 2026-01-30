@@ -31,14 +31,6 @@
   </a>
 </div>
 
----
-
-<h1 align="center">My not so proud stats</h1>
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=RyanJohnJames&theme=dark&background=000000" />
-  </a>
-</div>
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
