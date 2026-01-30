@@ -32,10 +32,4 @@
 </div>
 
 
-<div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanJohnJames&layout=compact&theme=vision-friendly-dark" />
-  </a>
-</div>
-
 
