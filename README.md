@@ -27,7 +27,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,lua,c,kali,linux,cs,ps,visualstudio,vscode,robloxstudio,bash,git,figma&theme=dark"
+    <img src="https://skillicons.dev/icons?i=py,lua,c,kali,linux,cs,ps,visualstudio,vscode,robloxstudio,bash,git,figma,react,vite&theme=dark"
   </a>
 </div>
 
